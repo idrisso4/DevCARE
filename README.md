@@ -4,8 +4,7 @@ DevCARE is a Mobile Application developed to facilitate missions of Commercial D
 
 ✅ Keywords: Android Studio, Java, XML, SQLite, Scrum
 
-Demo: https://drive.google.com/file/d/1pAeHjHv1Kde67jmK0jGFvv681QC_dmM0/view
-
+Demo: https://youtu.be/8fGGEBU9_1Q
 
 Team Members:
 
